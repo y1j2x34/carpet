@@ -1566,6 +1566,11 @@
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-12.20.33.tgz?cache=0&sync_timestamp=1634443414534&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-12.20.33.tgz#24927446e8b7669d10abacedd16077359678f436"
   integrity sha1-JJJ0Rui3Zp0Qq6zt0WB3NZZ49DY=
 
+"@types/node@^16.11.12":
+  version "16.11.12"
+  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.12.tgz#ac7fb693ac587ee182c3780c26eb65546a1a3c10"
+  integrity sha512-+2Iggwg7PxoO5Kyhvsq9VarmPbIelXP070HMImEpbtGCoyWNINQj4wzjbQCXzdHTRXnqufutJb5KAURZANNBAw==
+
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
   resolved "https://registry.nlark.com/@types/normalize-package-data/download/@types/normalize-package-data-2.4.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fnormalize-package-data%2Fdownload%2F%40types%2Fnormalize-package-data-2.4.1.tgz#d3357479a0fdfdd5907fe67e17e0a85c906e1301"
